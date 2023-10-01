@@ -33,6 +33,7 @@
 - PHP(2022-2023),
 - Python🐍 - 2023
 - REACT(2023)
+<p></p>
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=nic00la1" alt="nic00la1" /></p>
               
 <!---
