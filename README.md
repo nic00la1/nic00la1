@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nic00la1&theme=dark" alt="nic00la1" /></p>
 
-When i learned them: 
+<h3 align="left">When i learned these languages:</h3>
 - HTML(2021-2023),
 - CSS(2021-2023),
 - JS (2022-2023),
