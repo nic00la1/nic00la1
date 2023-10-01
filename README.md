@@ -4,6 +4,8 @@
     - 📫 How to reach me = nic00la.kaleta@gmail.com
     - My Buisness Card ➡ https://nic00la1.github.io/ 👩‍💻🥊
 - 🧪☢ Software I work with: HTML ➡ CSS ➡ JS ➡ SQL ➡ PHP ➡ ( a little Python🐍 ) ➡ REACT
+- 
+![lisek](https://github.com/nic00la1/FlexLayoutDemo/assets/99048749/f9ad57fe-9238-44d4-97cb-c2d40c3e64f8)
 
 When i learned them: 
 - HTML(2021-2023),
