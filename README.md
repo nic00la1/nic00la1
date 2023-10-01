@@ -3,15 +3,16 @@
 - 🌱 I’m currently learning: .NET Maui, C# and Angular 🌱
 - 📫 How to reach me = nic00la.kaleta@gmail.com
 - My Buisness Card ➡ https://nic00la1.github.io/ 👩‍💻🥊
-🧪☢ Software I work with: HTML ➡ CSS ➡ JS ➡ SQL ➡ PHP ➡ ( a little Python🐍 ) ➡ REACT
+- 🧪☢ Software I work with: HTML ➡ CSS ➡ JS ➡ SQL ➡ PHP ➡ ( a little Python🐍 ) ➡ REACT
 
-When i learned them: - HTML(2021-2023),
-                     - CSS(2021-2023),
-                     - JS (2022-2023),
-                     - SQL(2022-2023),
-                     - PHP(2022-2023),
-                     - Python🐍 - 2023
-                     - REACT(2023)
+When i learned them: 
+- HTML(2021-2023),
+- CSS(2021-2023),
+- JS (2022-2023),
+- SQL(2022-2023),
+- PHP(2022-2023),
+- Python🐍 - 2023
+- REACT(2023)
               
 <!---
 nic00la1/nic00la1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
