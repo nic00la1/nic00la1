@@ -3,8 +3,10 @@
 <h3 align="center">A passionate frontend developer from Poland</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nic00la1&label=Profile%20views&color=009dff&style=flat" alt="nic00la1" /> </p>
 
-- 🌱 I’m currently learning **.NET Maui, C# and Angular 🌱**
+![problemos](https://github.com/nic00la1/FlexLayoutDemo/assets/99048749/83519ee4-0778-43b0-8e88-17c5f4319178)
 
+- 🌱 I’m currently learning **.NET Maui, C# and Angular 🌱**
+  
 - 👨‍💻 My Buisness Card is available on [https://nic00la1.github.io/](https://nic00la1.github.io/)
 
 - 📫 How to reach me **nic00la.kaleta@gmail.com**
