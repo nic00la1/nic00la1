@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Nicola Kaleta</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
-
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nic00la1&label=Profile%20views&color=009dff&style=flat" alt="nic00la1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nic00la1" alt="nic00la1" /></a> </p>
