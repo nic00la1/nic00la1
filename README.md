@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicola Kaleta</h1>
 <h3 align="center">A passionate frontend developer from Poland</h3>
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![2000_600px](https://github.com/nic00la1/digital-Business-card/assets/99048749/0ae89713-b24d-498f-beff-a986a2b38424)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nic00la1&label=Profile%20views&color=009dff&style=flat" alt="nic00la1" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nic00la1" alt="nic00la1" /></a> </p>
