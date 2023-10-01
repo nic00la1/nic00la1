@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nic00la1
-- 👀 I’m interested in create Websites and Mobile Apps
-- 🌱 I’m currently learning: .NET Maui, C# and Angular 🌱
-- 📫 How to reach me = nic00la.kaleta@gmail.com
-- My Buisness Card ➡ https://nic00la1.github.io/ 👩‍💻🥊
+    - 👀 I’m interested in create Websites and Mobile Apps
+    - 🌱 I’m currently learning: .NET Maui, C# and Angular 🌱
+    - 📫 How to reach me = nic00la.kaleta@gmail.com
+    - My Buisness Card ➡ https://nic00la1.github.io/ 👩‍💻🥊
 - 🧪☢ Software I work with: HTML ➡ CSS ➡ JS ➡ SQL ➡ PHP ➡ ( a little Python🐍 ) ➡ REACT
 
 When i learned them: 
