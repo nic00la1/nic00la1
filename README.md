@@ -25,7 +25,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nic00la1&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=7e68ee&cache_seconds=1800&locale=en" alt="nic00la1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nic00la1&theme=light" alt="nic00la1" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nic00la1&theme=dark" alt="nic00la1" /></p>
 
 <h3 align="left">When i learned these languages:</h3>
 - HTML(2021-2023),
