@@ -5,7 +5,7 @@
 
 ![problemos](https://github.com/nic00la1/FlexLayoutDemo/assets/99048749/83519ee4-0778-43b0-8e88-17c5f4319178)
 
-- 🌱 I’m currently learning **.NET Maui, C# and Angular 🌱**
+- 🌱 I’m currently learning **ASP.NET, .NET Maui, C# and Angular 🌱**
   
 - 👨‍💻 My Buisness Card is available on [https://nic00la1.github.io/](https://nic00la1.github.io/)
 
