@@ -1,6 +1,6 @@
 ![2000_600px](https://github.com/nic00la1/digital-Business-card/assets/99048749/0ae89713-b24d-498f-beff-a986a2b38424)
 <h1 align="center">Hi 👋, I'm Nicola Kaleta</h1>
-<h3 align="center">A passionate frontend developer from Poland</h3>
+<h3 align="center">A passionate fullstack developer from Poland</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nic00la1&label=Profile%20views&color=009dff&style=flat" alt="nic00la1" /> </p>
 
 ![problemos](https://github.com/nic00la1/FlexLayoutDemo/assets/99048749/83519ee4-0778-43b0-8e88-17c5f4319178)
